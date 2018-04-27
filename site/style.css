@@ -1,6 +1,7 @@
 body{
     background: url(images/bground.jpg) fixed no-repeat center center;
     margin: 0 10% 0 10%;
+background-size: cover;
 }
 
 header, footer,article{
